@@ -1,17 +1,34 @@
-## Assignment-13:
-Implement this design in an app using Flutter, using widgets that we take in lesson.
+# bank_card_app
 
-[Desgin in figma:](https://www.figma.com/design/ylPIS03xMTy38uFcR6M6MQ/Assignment-tuwaiq?node-id=0-1&t=GQBf0PyHYMorvihL-1)
+A new Flutter project that contain a UI that allows user to create a bank card.
 
-## Note:
-1. Use TextFormField to validate all textfield are not empty, the "Card number" has 16 number, the "Card holder" accept only text (number invalid).
-2. Upload GIF or Video of your app.
-3. If you upload GIF, upload it in README file.
+## Main Functionalities
 
+### Text Feild Form
+to allows user to provide card info for create it
 
-## Submission Details:
-Deadline: 21 August 2024
-Submission Format: Provide your Flutter code file(s) along with a README file explaining widgets you are used.
+![alt text](./assest/readme/image.png)
 
-Good luck 🚀
-and happy coding! 🧑‍💻
+### Validation user input
+
+#### Validation card date
+![alt text](./assest/readme/image-1.png)
+
+#### Validation card number
+![alt text](./assest/readme/image-2.png)
+#### Validation card holder
+![alt text](./assest/readme/image-3.png)
+
+### Card Creation & `GlobalsKey`
+![alt text](./assest/readme/image-4.png)
+
+## Output
+![alt text](./assest/readme/image-5.png)
+
+![alt text](./assest/readme/image-6.png)
+
+![alt text](./assest/readme/cardGif.gif)
+
+Feel free to use with account name mentioned
+
+by `Basel-75` Github
